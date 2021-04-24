@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa" alt="IpoLa" /></p>
-
 
 📫 **Contact me by** :
 <p align="center">
