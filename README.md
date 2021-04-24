@@ -20,8 +20,19 @@ Here are some ideas to get you started:
 -->
 
 📫 **Contact me by**:
-- [Instagram](https://www.instagram.com/ipola_dized/)
-- [LinkedIn](https://www.linkedin.com/in/akram-mezaache-471b2b35)
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/akram-mezaache-471b2b35" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100011059988836" target="_blank">
+    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/ipola_dized/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/instagram.svg"/></code>
+  </a>    
+</p>
+<br/>
 
 
 ![Akram Mezaache's github stats](https://github-readme-stats.vercel.app/api?username=IpoLa&theme=material-palenight&count_private=true&show_icons=true)
@@ -33,3 +44,7 @@ Here are some ideas to get you started:
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa" alt="IpoLa" /></p>
+
+
+
+![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
