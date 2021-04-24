@@ -1,6 +1,6 @@
 # ✨ Hi! 👋
 
-Someday I'll have the time to properly introduce myself. For now, here are some stats.
+# ✨ Someday I'll have the time to propely introduce myself. For now, here are some stats.
 
 <br>
 
