@@ -19,7 +19,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 **Contact me by**:
+![Akram Mezaache's github stats](https://github-readme-stats.vercel.app/api?username=IpoLa&theme=material-palenight&count_private=true&show_icons=true)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpoLa&theme=material-palenight&layout=compact)
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa" alt="IpoLa" /></p>
+
+
+📫 **Contact me by** :
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/akram-mezaache-471b2b35" target="_blank">
@@ -33,18 +44,6 @@ Here are some ideas to get you started:
   </a>    
 </p>
 <br/>
-
-
-![Akram Mezaache's github stats](https://github-readme-stats.vercel.app/api?username=IpoLa&theme=material-palenight&count_private=true&show_icons=true)
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpoLa&theme=material-palenight&layout=compact)
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa" alt="IpoLa" /></p>
-
 
 
 ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
