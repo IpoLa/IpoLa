@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 📫 **Contact me by**:
-- Email (akramchat [AT] hotmail.com)
+- [Instagram](https://www.instagram.com/ipola_dized/)
 - [LinkedIn](https://www.linkedin.com/in/akram-mezaache-471b2b35)
 
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa" alt="shahwan42" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa" alt="IpoLa" /></p>
