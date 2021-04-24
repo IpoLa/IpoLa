@@ -19,11 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Akram Mezaache's github stats](https://github-readme-stats.vercel.app/api?username=IpoLa&count_private=true&show_icons=true)
+📫 **Contact me by**:
+- Email (akramchat [AT] hotmail.com)
+- [LinkedIn](https://www.linkedin.com/in/akram-mezaache-471b2b35)
+
+
+![Akram Mezaache's github stats](https://github-readme-stats.vercel.app/api?username=IpoLa&theme=material-palenight&count_private=true&show_icons=true)
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpoLa&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpoLa&theme=material-palenight&layout=compact)
 
 <br>
 
