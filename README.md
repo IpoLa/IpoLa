@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IpoLa&theme=material-palenight&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JayantGoel001&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
+
+<p align="center">
+  <a>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
+  </a>
+</p>
 
 <br>
 
