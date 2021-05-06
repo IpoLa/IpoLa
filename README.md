@@ -1,5 +1,3 @@
-# ✨ Hi! 👋
-
 # ✨ Someday I'll have the time to propely introduce myself. For now, here are some stats.
 
 <br>
