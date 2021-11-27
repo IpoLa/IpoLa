@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/akram-mezaache-471b2b35" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/linkedin.svg"/></code>
+    <code><img height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></code>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100011059988836" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.svg"/></code>
+    <code><img  height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/600px-Facebook_logo_%28square%29.png"/></code>
   </a>
   <a href="https://www.instagram.com/ipola_dized/" target="_blank">
     <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png"/></code>
