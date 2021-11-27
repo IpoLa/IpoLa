@@ -60,10 +60,10 @@ Here are some ideas to get you started:
     <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/facebook.svg"/></code>
   </a>
   <a href="https://www.instagram.com/ipola_dized/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/instagram.svg"/></code>
+    <code><img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/600px-Instagram-Icon.png"/></code>
   </a>    
 </p>
 <br/>
 
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
+<!-- ![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png) -->
