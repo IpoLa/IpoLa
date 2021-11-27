@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png">
+<!--     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/left.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IpoLa&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png">
+<!--     <img height="150" width="175" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/right.png"> -->
   </a>
 </p>
 
